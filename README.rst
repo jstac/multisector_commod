@@ -25,19 +25,7 @@ corresponding dynamic program.  We also describe the dynamics of the model,
 establishing geometric ergodicity, a Law of Large Numbers and a Central Limit
 Theorem.
 
-
-
-Downloads
----------
-
-* :download:`PDF file<_static/multisector_commod/multisector.pdf>`
-* :download:`Slides <_static/multisector_commod/main.pdf>`
-* :download:`Zip file <_static/multisector_commod/python_code.zip>` containing Python code
-
-
 Code
 --------
 
-All the code for the paper is in the zip file above.  It's not particularly
-well organized or commented.  Feel free to contact me for advice if you wish
-to use it.
+All the code for the paper is in the ``programs`` directory.
